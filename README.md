@@ -10,6 +10,6 @@ cosmeet.cosme.net の商品情報を Python（Scrapy + Selenium）でスクレ�
 
 ## ファイル
 
-- `scrape_cosmeet_notebook.ipynb`：スクレイピングコードと実行例を含むノートブック
+- `scrapy.ipynb`：スクレイピングコードと実行例を含むノートブック
 
 ※ 本データは学習・検証目的でのみ利用してください。
